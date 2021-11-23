@@ -1,0 +1,23 @@
+{
+  "name": "rocheck",
+  "version": "1.0.0",
+  "description": "Quickly check if a username is available on Roblox.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Roblox",
+    "CLI",
+    "RoCheck"
+  ],
+  "author": "csokolove",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "clear": "^0.1.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.1.0",
+    "noblox.js": "^4.8.5"
+  }
+}
