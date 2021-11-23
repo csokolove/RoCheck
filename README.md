@@ -36,6 +36,9 @@ $ RoCheck
 ```
 anywhere on your computer, the program will run.
 
+**WORK IN PROGRESS BELOW**
+- Currently the "releases" folder contains a `RoCheck.exe` file which will allow you to run RoCheck with a click of a button. Still a major work-in-progress and only functions on specific environments. If you're interested to learn more about why, or how this works, feel free to create an issue.
+
 ## Contributing
 
 Contributions are welcome via Pull Requests (PR).
