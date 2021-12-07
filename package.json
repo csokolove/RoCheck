@@ -1,5 +1,5 @@
 {
-  "name": "rocheck",
+  "name": "roquery",
   "version": "1.0.0",
   "description": "Quickly check if a username is available on Roblox.",
   "main": "index.js",
@@ -7,12 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "rocheck": "./index.js"
+    "roquery": "./index.js"
   },
   "keywords": [
     "Roblox",
     "CLI",
-    "RoCheck"
+    "RoQuery"
   ],
   "author": "csokolove",
   "license": "MIT",

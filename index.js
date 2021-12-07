@@ -8,7 +8,7 @@ clear();
 
 console.log(
   chalk.red(
-    figlet.textSync('RoCheck', { horizontalLayout: 'full' })
+    figlet.textSync('RoQuery', { horizontalLayout: 'full' })
   )
 );
 
